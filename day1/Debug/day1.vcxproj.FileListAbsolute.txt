@@ -1,1 +1,2 @@
 D:\VS2019\CODE\day1\Debug\day1.exe
+D:\VS2019\CODE\Github\C-Review\day1\Debug\day1.exe

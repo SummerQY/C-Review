@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="day1-1.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="day1-2.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="day1-3.c">
+    <ClCompile Include="day1.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
