@@ -31,7 +31,7 @@
 //}
 
 //输出乘法口诀表
-//#include<stdio.h>
+////#include<stdio.h>
 //int main()
 //{
 //  int a, b;
@@ -49,16 +49,16 @@
 //}
 
 //check the leap year between 1000 and 2000
-int main() 
-{
-	int a;
-	printf("请输入要检查的年份：");
-	scanf("%d", &a);
-	if (a % 4 == 0)
-		printf("%d是闰年\n",a);
-	else
-		printf("%d是平年\n",a);
-	printf("\n");
-	return 0;
-}
+//int main() 
+//{
+//	int a;
+//	printf("请输入要检查的年份：");
+//	scanf("%d", &a);
+//	if (a % 4 == 0)
+//		printf("%d是闰年\n",a);
+//	else
+//		printf("%d是平年\n",a);
+//	printf("\n");
+//	return 0;
+//}
 
