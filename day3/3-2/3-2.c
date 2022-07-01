@@ -3,8 +3,13 @@
 #include<stdio.h>
 int main() 
 {
-	int i;
-	float sum=0.0;
+	float i;
+	float sum=0;
+	for (i = 1; i <= 100; i+=2) 
+	{
+		sum += (1 / i - 1 / (i + 1));
+	}
+	printf("多项式的值为：%f\n", sum);
 	return 0;
 	
 }
