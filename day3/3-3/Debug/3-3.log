@@ -1,2 +1,7 @@
 ﻿  3-3.c
+D:\VS2019\CODE\Github\C-Review\day3\3-3\3-3.c(23,57): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS2019\CODE\Github\C-Review\day3\3-3\3-3.c(24,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS2019\CODE\Github\C-Review\day3\3-3\3-3.c(27,36): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS2019\CODE\Github\C-Review\day3\3-3\3-3.c(55,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS2019\CODE\Github\C-Review\day3\3-3\3-3.c(14): warning C4715: “checklen”: 不是所有的控件路径都返回值
   3-3.vcxproj -> D:\VS2019\CODE\Github\C-Review\day3\3-3\Debug\3-3.exe
